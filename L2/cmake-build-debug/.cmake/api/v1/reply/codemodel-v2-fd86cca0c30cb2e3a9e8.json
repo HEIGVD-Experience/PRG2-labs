@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.24"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "prg2_labo2",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "prg2_labo2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-prg2_labo2-Debug-864aac21f4bf017b598c.json",
+					"name" : "prg2_labo2",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/guillaumetrueb/Library/CloudStorage/OneDrive-HESSO/HEIG-VD/2 - PRG2/2-LABORATOIRES/PRG2-2023-Labo-2/cmake-build-debug",
+		"source" : "/Users/guillaumetrueb/Library/CloudStorage/OneDrive-HESSO/HEIG-VD/2 - PRG2/2-LABORATOIRES/PRG2-2023-Labo-2"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

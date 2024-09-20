@@ -1,0 +1,4 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" -S "/Users/guillaumetrueb/Library/CloudStorage/OneDrive-HESSO/HEIG-VD/2 - PRG2/2-LABORATOIRES/PRG2-2023-Labo-3" -B "/Users/guillaumetrueb/Library/CloudStorage/OneDrive-HESSO/HEIG-VD/2 - PRG2/2-LABORATOIRES/PRG2-2023-Labo-3/cmake-build-debug"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/guillaumetrueb/Library/CloudStorage/OneDrive-HESSO/HEIG-VD/2 - PRG2/2-LABORATOIRES/PRG2-2023-Labo-3/cmake-build-debug
